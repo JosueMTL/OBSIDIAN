@@ -1,5 +1,4 @@
 <h1>1 NOTAS TECNICAS EN IA UTILIZANDO OBSIDIAN</h1>
-Por supuesto, puedo proporcionarte ejemplos de inserción de datos en las tablas que hemos creado. A continuación, te muestro cómo podrías insertar algunos datos de ejemplo en cada tabla:
 
 1.  **Ejemplo de inserción de datos en la tabla "Carros":**
 
@@ -65,7 +64,7 @@ VALUES
 
 Con estos ejemplos de inserción de datos, se agregarán registros a cada una de las tablas para simular algunos datos de ejemplo en tu base de datos "Ring 9". Puedes agregar más datos según lo necesites para representar mejor tu juego.
 
-<h1>2 INTRODUCCION TEORICA A IA </h1>
+<h1>2 INTRODUCCION TEORICA  IA </h1>
 <h2>1. Averiguar acerca acerca de los nativos digitales y sus IQ </h2>
 
    Los "nativos digitales" son la primera generación de niños que han crecido en medio de la tecnología digital y la conectividad permanente. Según algunos estudios y expertos, estos niños tienen un coeficiente intelectual (IQ) más bajo que sus padres. El neurocientífico Michel Desmurget, director de investigación del Instituto Nacional de la Salud de Francia 3, ha hablado sobre los efectos negativos de los dispositivos digitales en el desarrollo cerebral de los niños y las niñas. De acuerdo con su investigacion, el uso excesivo de la tecnología digital puede tener un impacto perjudicial en el rendimiento cognitivo de los niños. Sin embargo, también existen críticas a esta idea y se considera que se requiere más investigación para evaluar correctamente los efectos de la tecnología digital en el desarrollo cognitivo de los niños y jóvenes.
