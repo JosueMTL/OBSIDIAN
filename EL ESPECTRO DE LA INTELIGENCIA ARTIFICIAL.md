@@ -39,3 +39,9 @@ NN ---> NN NEURAL NETWORKS
 ***
 NLP ---> NATURAL LANGUAGE PROCESSING
 - Comprender, interpretar, manipular el lenguaje PNL
+
+<h1>CASOS DE USO Y CONTEXTOS DE LA IA</h1>
+- FINANZAS CUMPLIMIENTO TRIBUTARIO
+![[Pasted image 20230726153600.png]]
+
+- 
