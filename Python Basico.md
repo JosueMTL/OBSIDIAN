@@ -1,6 +1,6 @@
-Es un lenguaje de programación fácil de leer que permite asignaciones de variables, operaciones matemáticas.
+		Es un lenguaje de programación fácil de leer que permite asignaciones de variables, operaciones matemáticas.
 
-- Realizmaos nuestro primer codigo en Python
+- Realizamos nuestro primer código en Python
 ![[Pasted image 20230725084843.png]]
 Ejerciso 2
 
@@ -25,3 +25,101 @@ Las cadenas son flexibles e inmutables, soportando múltiples métodos de manipu
   Python permite la importación de librerías, ya sea estándar o personalizadas a través de importaciones. Las librerías contiene módulos que son colecciones de funciones y valores. 
                              - Pandas 
                              - Random
+***
+<h1>EJERCISIO EN CLASE SORTEO</h1>
+import random
+
+```Python
+
+  
+
+animals  = ['Perro', 'Gato', 'Delfin', 'Tiburon', 'Jirafa']
+
+  
+
+numbers = [1, 2, 3, 4]
+
+  
+  
+
+def lottery():
+
+  
+  
+
+                lottery = input("Ingresar su numero de loteria: ")
+
+  
+
+lottery()
+
+  
+
+tamano_lista = 4
+
+  
+
+rango_minimo = 1
+
+  
+
+rango_maximo = 4
+
+  
+  
+
+lista_aleatoria = [random.randint(rango_minimo, rango_maximo)
+
+                   for _ in range(tamano_lista)]
+
+  
+  
+
+if lottery == lista_aleatoria:
+
+  
+
+                 print("Ganaste la loteria")
+
+  
+
+else:
+
+  
+
+         print("Lo sentimos esta es la lista de numeros de loteria que ganaron: ", lista_aleatoria)
+
+  
+  
+
+def animal():
+
+  
+  
+
+                animal = input("Ingrese su Animal: ")
+
+  
+
+animal()
+
+  
+  
+
+lista_animal =
+
+  
+  
+
+if animal == lista_animal:
+
+  
+
+                     print("Ganaste otro boleto")
+
+  
+
+else:
+
+
+                print("Lo sentimos el animal ganador es: ", random.choice(animals))

@@ -171,3 +171,13 @@ OPERACIONES CRUD
 - read
 - unite
 - delete
+
+<h1>EJERCISIO DE LA IA, CONECTANDO LA API DE CHAT GPT </h1>
+El tener nuestro propia inteligencia artificial que nos ayude a responder nuestras preguntas pues se ve asi: 
+- js: 
+![[ai.png]]
+
+- Asi se ve la interfaz funcional 
+![[Pasted image 20230731055937.png]]
+- EN POSTMAN 
+![[Pasted image 20230731060013.png]]
